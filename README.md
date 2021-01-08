@@ -1,5 +1,6 @@
-# Engineering-Solutions-Lab
-A collection of hands-on engineering projects, including gRPC services, HTTP proxy microservices, feature engineering pipelines, and production-ready business logic, focused on real-world implementations rather than algorithmic research.
+# Distributed-Systems-Lab
+
+A portfolio of production-grade engineering solutions focused on distributed systems and microservice architectures. Features high-performance gRPC frameworks, unified HTTP proxies, and scalable service interfaces designed for real-world production environments.
 
 ## 1. [http-proxy](http-proxy/) 
 Microservice Unified Proxy，a lightweight proxy layer for microservices, designed to provide a consistent and unified interface across different services.
